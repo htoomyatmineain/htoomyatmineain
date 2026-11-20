@@ -65,76 +65,6 @@ I enjoy transforming complex problems into practical software solutions, especia
 
 ---
 
-## 🚀 Featured Projects
-
-### 🪐 ARES — Martian Survival Guide
-
-**NASA Space Apps Challenge 2026 | Hackathon Prototype**
-
-An interactive exploration and mission-planning prototype designed to support simulated astronaut activities on Mars, focusing on the southwestern region of Jezero Crater.
-
-**Key Features**
-- 2D and 3D Martian terrain visualization
-- A* pathfinding with terrain-aware routing
-- Shorter and safer route comparisons
-- Elevation profiles and mission planning
-- Astronaut HUD and tablet-inspired interfaces
-- Simulated environmental and emergency scenarios
-
-### 🏙️ Kinn Htout — AI Civic Response Platform
-
-**Civic Technology | Software Engineering Project**
-
-An AI-assisted civic issue reporting and management system prototype designed to improve communication between citizens and responsible authorities.
-
-**Key Features**
-- Location-based incident reporting
-- AI-assisted report classification and prioritization
-- Role-based workflows for citizens, staff, and administrators
-- Interactive maps and incident monitoring
-- Administrative dashboards and analytics
-
-**Tech Stack:** React, Java, Spring Boot, Supabase
-
-### ☀️ A Yate Sitt — Urban Heat Safety Platform
-
-**🏆 Second Prize — UIT Innovative Hackathon 2026**
-
-A technology-driven urban heat safety platform designed to help communities understand heat risks and respond to potentially dangerous conditions.
-
-**Key Features**
-- Heat Risk Index visualization
-- AI-assisted heat safety guidance
-- Emergency SOS support
-- Cooling center and water station navigation
-- Citizen reporting and monitoring dashboards
-
----
-
-## 💼 Experience
-
-### Frontend Developer — Freelance Project
-**Market Data Analysis System | Team AIE | 2026**
-
-- Contributed to the development of a web-based market data analysis platform
-- Built frontend interfaces using React and TypeScript
-- Worked with data visualizations, API integration, and reusable UI components
-- Collaborated with a development team to deliver project requirements
-
-**Technologies:** React, TypeScript, Tailwind CSS, TanStack Query, Recharts
-
----
-
-## 🏆 Achievements & Activities
-
-- 🥈 **Second Prize** — UIT Innovative Hackathon 2026
-- 🎬 **Top 5 Consolation Prize** — Cyber Awareness Video Competition 2026
-- 🪐 **Participant** — NASA Space Apps Challenge 2026
-- 🎨 **Secretary** — UIT Art Club
-- 💻 Participated in collaborative software development and hackathon projects
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -154,19 +84,5 @@ A technology-driven urban heat safety platform designed to help communities unde
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/snake.svg" />
   <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/snake.svg" />
 </picture>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and connecting with people who are passionate about building impactful software.
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htoo-myat-min-eain-32a702345/)
-
-<div align="center">
-
-*Keep learning. Keep building. Keep improving.*
 
 </div>
