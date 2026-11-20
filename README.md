@@ -68,9 +68,9 @@ Building reliable, scalable, and meaningful software systems.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/snake.svg" />
-  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/contribution-snake.svg" />
+  <img width="100%" alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/htoomyatmineain/htoomyatmineain/snake-output/contribution-snake.svg" />
 </picture>
 
 </div>
