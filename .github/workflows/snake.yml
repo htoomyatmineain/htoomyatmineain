@@ -26,6 +26,20 @@ jobs:
             dist/contribution-snake.svg?palette=github-light&color_snake=%23800080&color_dots=%23eff2f5,%23aceebb,%234ac26b,%232da44e,%23116b2e
             dist/contribution-snake-dark.svg?palette=github-light&color_snake=%23800080&color_dots=%23eff2f5,%23aceebb,%234ac26b,%232da44e,%23116b2e
 
+      - name: Add a light background for both GitHub themes
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          for path in Path('dist').glob('*.svg'):
+              svg = path.read_text()
+              match = re.search(r'viewBox="([^"]+)"', svg)
+              x, y, width, height = match.group(1).split()
+              background = f'<rect x="{x}" y="{y}" width="{width}" height="{height}" rx="12" fill="#ffffff"/>'
+              svg = svg.replace('>', '>' + background, 1)
+              path.write_text(svg)
+          PY
+
       - name: Publish animations
         uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
