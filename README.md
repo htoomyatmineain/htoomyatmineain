@@ -15,20 +15,6 @@ Building reliable, scalable, and meaningful software systems.
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a Computer Science undergraduate at the **University of Information Technology (UIT), Yangon**, pursuing a career in software engineering with a particular interest in **backend development, software architecture, and scalable systems**.
-
-I enjoy transforming complex problems into practical software solutions, especially projects that combine technical challenges with meaningful real-world impact.
-
-- 🎓 Studying Computer Science at UIT | Expected graduation: 2028
-- ⚙️ Interested in backend systems, APIs, databases, and software architecture
-- 🌱 Continuously learning about system design, security, and reliable software development
-- 🤝 Experienced in collaborative projects, hackathons, and freelance development
-- 🎨 Also a portrait artist who appreciates thoughtful design and creativity
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
